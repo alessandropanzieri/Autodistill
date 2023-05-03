@@ -1,0 +1,6 @@
+path: ../../YOLOSegmentation/datasets
+train: images
+val: images
+
+names:
+  0: hand
