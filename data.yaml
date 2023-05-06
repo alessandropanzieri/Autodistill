@@ -1,6 +1,5 @@
-path: ../../YOLOSegmentation/datasets
-train: images
-val: images
-
-names:
-  0: hand
+{
+  train: images,
+  val: images,
+  names: {0: hand}
+}
